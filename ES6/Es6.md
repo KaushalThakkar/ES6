@@ -1,6 +1,8 @@
 # ES6 ( ECMAScript)
 
-- ECMA is European Computer Manufacturer's Association. ECMAScript is a Standard for scripting languages such as JavaScript, JScript, etc. It is a trademark scripting language specification.
+- ECMA is **European Computer Manufacturer's Association.** 
+- ECMAScript is a Standard for scripting languages such as JavaScript, JScript, etc. 
+- It is a trademark scripting language specification.
 
 1. Let & Const
 2. Arrow function
