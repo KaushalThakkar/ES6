@@ -9,7 +9,7 @@
 3. Exports & Imports
 4. Classes
 5. Spread & Rest Opreators
-6. Destructuring
+6. Destructuring    
 7. Array function
 
 # 1. Let & Const
@@ -307,7 +307,7 @@ function sortArgs(...args){
 }
 ````
 
-##Example
+## Example
 
 ```js
 const numbers = [1,2,3];
