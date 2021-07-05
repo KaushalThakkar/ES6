@@ -212,7 +212,7 @@ class Person{
         console.log(this.name);
     }
 }
-con     st person = new Person();
+const person = new Person();
 person.printMyName();
 ```
 >Output (In Console)
@@ -294,7 +294,7 @@ female
 
 **Spread :** Used to split up array elements OR objects properties. Like this,
 
-```
+```zz
 const newArray = [...oldArray,1,2]
 const newObject = {...oldObject,newProps:5}
 ````
