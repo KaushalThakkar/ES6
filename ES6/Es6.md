@@ -395,10 +395,10 @@ console.log(age)     // Kaushal
 
 ```js
 const numbers = [1,2,3];
-[num1, num2] = nmbers;
+[num1, num2] = numbers;
 
 console.log(num1, num3);
-
+    
 // Output : 1 3
 ```
 - Object Destructuring is not supported by jsbin.
