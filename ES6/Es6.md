@@ -361,7 +361,7 @@ const newPerson = {
  - Let's see one more Example
 ```js
  const words = ['Sprtay','Limit', 'elite','exuberant','destrution','present'];
- const result = word.filter(word => )
+ const result = word.filter(word => word.length > 6)
  
  console.log(result);
  ```
