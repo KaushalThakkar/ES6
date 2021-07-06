@@ -387,9 +387,9 @@ console.log(b)     // Kaushal
 ## Object Destructuring
 
 ```js
-[a,b] = ['Hello', 'Kaushal']
-console.log(a)     // Hello
-console.log(b)     // Kaushal
+{name} = {name:'kaushal', age:25}
+console.log(name)     // Hello
+console.log(age)     // Kaushal
 ```
 ###### Example
 
