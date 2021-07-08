@@ -18,7 +18,7 @@
 
 - `const`, if you plan on **creating a constant value**, so something which you only assigne once and **never change.**
 
-- **In this course you will never see `var`, you will onliy see `let` and `const` and mostly it's `const`.**
+- **In this course you will never see `var`, you will only see `let` and `const` and mostly it's `const`.**
 
 ## Example
 
