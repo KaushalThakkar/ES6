@@ -388,8 +388,8 @@ console.log(b)     // Kaushal
 
 ```js
 {name} = {name:'kaushal', age:25}
-console.log(name)     // Hello
-console.log(age)     // Kaushal
+console.log(name)     // kaushal
+console.log(age)     // 25
 ```
 ###### Example
 
